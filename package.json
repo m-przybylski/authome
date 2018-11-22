@@ -1,0 +1,7 @@
+{
+  "name": "authome",
+  "version": "0.0.1",
+  "description": "playground for home automation",
+  "main": "index.js",
+  "license": "MIT"
+}
