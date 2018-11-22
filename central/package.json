@@ -1,9 +1,13 @@
 {
-  "name": "cental",
+  "name": "central",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node index.js 8080"
   }
 }
