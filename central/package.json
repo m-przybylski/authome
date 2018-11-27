@@ -9,8 +9,7 @@
     "ws": "^6.1.2"
   },
   "scripts": {
-    "bbl": "babel ./src --out-dir lib --extensions \".ts,.tsx\"",
-    "start": "webpack --config webpack.config.js"
+    "start": "webpack --watch"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",

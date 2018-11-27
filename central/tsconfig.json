@@ -5,6 +5,7 @@
     "outDir": "./dist/central",
     "strictNullChecks": true,
     "sourceMap": true,
+    "experimentalDecorators": true,
     "typeRoots":[
       "node_modules/@types"
     ]
