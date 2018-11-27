@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "es6",
+    "outDir": "./dist/central",
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "typeRoots":[
+      "node_modules/@types"
+    ]
+  }
+}
